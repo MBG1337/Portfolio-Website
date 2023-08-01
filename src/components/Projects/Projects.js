@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
-
-import PrivateChat from "../../Assets/Projects/PrivateChat.png";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
-import Ecart from "../../Assets/Projects/ecart.png";
-import ExpenseTracker from "../../Assets/Projects/ExpenseTracker.png";
+import McubeTheme from "../../Assets/Projects/McubeTheme.png";
+import Minactyl from "../../Assets/Projects/Minactyl.png";
 
 import "./project.css";
 
