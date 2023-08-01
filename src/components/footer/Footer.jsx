@@ -17,7 +17,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <span>
             Designed and Developed by{" "}
-            <i className="primary-header">Rahul Jha</i>
+            <i className="primary-header">MBG</i>
           </span>
         </Col>
         <Col md="4" className="footer-body">
@@ -26,7 +26,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="github"
-                href="https://github.com/Rahuljha4171"
+                href="https://github.com/MBG1337"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="github"
@@ -38,7 +38,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="twitter"
-                href="https://twitter.com/Rahuljha4171"
+                href="https://twitter.com/MineCube_MC"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="twitter"
@@ -50,7 +50,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="email"
-                href="mailto:rahuljha4171@outlook.com"
+                href="mailto:mbgx1337@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="email"
@@ -61,20 +61,8 @@ function Footer() {
             <li className="social-icons">
               <a
                 style={{ color: `var(--clr-primary)` }}
-                className="linkedin"
-                href="https://www.linkedin.com/in/Rahuljha4171/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="linkedin"
-              >
-                <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://www.instagram.com/dead.programmer/"
+                href="https://www.instagram.com/ojas_dsouza"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"
